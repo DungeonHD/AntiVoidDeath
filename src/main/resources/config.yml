@@ -1,0 +1,14 @@
+# Do you wish to enable this plugin?
+Enabled: true
+
+# The Y level in the End that triggers the teleportation.
+EndTeleportCoordinate: -60
+
+# Should a teleport sound be triggered when the player gets
+# teleported back to the Overworld?
+TeleportSound:
+  Enabled: true
+  Sound: minecraft:BLOCK_PORTAL_TRAVEL
+
+# The Y level where players will spawn in the Overworld
+OverworldSpawnPosition: 320
