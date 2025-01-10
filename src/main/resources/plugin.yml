@@ -1,0 +1,8 @@
+name: AntiVoidDeath
+version: '1.0'
+main: net.dungeon.antiVoidDeath.AntiVoidDeath
+api-version: '1.21'
+load: STARTUP
+authors: [ DungeonFinder ]
+description: This plugin teleports you back to the overworld when you jump in the void in the end dimension
+website: https://dungeonhd.net/development
