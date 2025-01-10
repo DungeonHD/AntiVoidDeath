@@ -77,6 +77,3 @@ Feel free to fork this repository and submit pull requests for:
 If you encounter any issues or have questions, feel free to open an issue in this repository.
 
 ---
-
-## Notes
-- Replace the `[Releases](#)` link with the actual URL to the release page when publishing the project.
